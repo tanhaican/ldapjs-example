@@ -1,0 +1,22 @@
+{
+  "name": "ldap",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "ldapjs": "^1.0.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "scripts": {
+    "dev": "egg-bin dev"
+  },
+  "ci": {
+    "version": "1"
+  },
+  "repository": {},
+  "author": "tanhaican <haican.tan@phamark.coom>",
+  "license": "MIT"
+}
