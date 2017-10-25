@@ -1,5 +1,5 @@
-# nodejs 访问ldap服务
+# nodejs 璁块棶ldap鏈嶅姟
 
-## 运行使用
+## 杩愯浣跨敤
 1. npm install
 2. node main
